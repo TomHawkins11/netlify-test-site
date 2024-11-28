@@ -72,7 +72,7 @@
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",
                 "altText": "Netlify templates",
-                "showIcon": false
+                "showIcon": true
             }
         ],
         "contacts": {
