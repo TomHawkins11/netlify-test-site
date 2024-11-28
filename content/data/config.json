@@ -11,7 +11,7 @@
             {
                 "type": "Link",
                 "label": "Signup Now",
-                "altText": "",
+                "altText": "Signup Button",
                 "url": "/Signup",
                 "showIcon": false,
                 "icon": "arrowRight",
