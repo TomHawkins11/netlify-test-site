@@ -5,7 +5,7 @@ colors: colors-e
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: Brisbane's Premier Dodgeball League
     subtitle: Join Now
     styles:
