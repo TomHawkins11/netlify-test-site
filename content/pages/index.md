@@ -7,7 +7,7 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: Brisbane's Premier Dodgeball League
-    subtitle: Try something different. Play Dodgeball in Brisbane.
+    subtitle: Find a new passion. Play Dodgeball in Brisbane.
     styles:
       self:
         height: auto
