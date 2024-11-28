@@ -12,7 +12,7 @@
                 "type": "Link",
                 "label": "Signup Now",
                 "altText": "",
-                "url": "/Timetable",
+                "url": "/Signup",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
